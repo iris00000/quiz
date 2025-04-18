@@ -1,0 +1,4 @@
+type,question,option1,option2,option3,option4,answer
+choice,請問1+1=?,1,2,3,4,2
+choice, 請問2+2?,2,3,4,5,4
+fill,請問3+3?,,,,,6
